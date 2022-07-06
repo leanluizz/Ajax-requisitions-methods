@@ -5,12 +5,12 @@
 
 <img src="" width="50vw" alt="gitBash"/>
 
-<img src="" width="50vw" alt="gitBash"/>
+<img src="" width="50vw" alt="npm-i"/>
 
 <li> In next step, you open the directory and get "npm start" </li>
 
-<img src="" width="50vw" alt="gitBash"/>
+<img src="" width="50vw" alt="npm start"/>
 
-<li> Finally you get URL: <a href="http://localhost:8080/">localhost:8080</ a> </li>
+<li> Finally you get URL: localhost:8080</li>
 
-<img src="" width="50vw" alt="gitBash"/>
+<img src="" width="50vw" alt="localhost:8080"/>
