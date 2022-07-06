@@ -1,0 +1,1 @@
+# Ajax-requisitions-methods
