@@ -5,12 +5,12 @@
 
 <li> To start the project, you need to install the node_modules folder using "npm i" in the terminal of the directory where the server.js is </li>
 
-<img src="https://raw.githubusercontent.com/leanluizz/Ajax-requisitions-methods/principal/temp.png" width="50vw" alt="gitBash"/>
+<img src="https://raw.githubusercontent.com/leanluizz/Ajax-requisitions-methods/principal/temp.png" width="100vw" alt="gitBash"/>
 
-<img src="https://raw.githubusercontent.com/leanluizz/Ajax-requisitions-methods/principal/temp2.png" width="50vw" alt="npm-i"/>
+<img src="https://raw.githubusercontent.com/leanluizz/Ajax-requisitions-methods/principal/temp2.png" width="100vw" alt="npm-i"/>
 
 <li> In next step, you open the directory and get "npm start" </li>
 
-<img src="https://raw.githubusercontent.com/leanluizz/Ajax-requisitions-methods/principal/temp%203.png" width="50vw" alt="npm start"/>
+<img src="https://raw.githubusercontent.com/leanluizz/Ajax-requisitions-methods/principal/temp%203.png" width="100vw" alt="npm start"/>
 
 <li> Finally you get URL: localhost:8080</li>
