@@ -13,4 +13,22 @@
 
 <img src="https://raw.githubusercontent.com/leanluizz/Ajax-requisitions-methods/principal/temp%203.png" width="300vw" alt="npm start"/>
 
-<li> Finally you get URL: <a href="http://localhost:8080/">localhost:8080</li>
+<li> Finally you get URL: localhost:8080</li>
+
+<h2> The project is a list of how you can use AJAX in many methods </h2>
+
+- XML - GET
+
+- XML - POST
+
+- JQUERY - GET
+
+- JQUERY - POST
+
+- Fetch - GET
+
+- Fetch - POST
+
+- Axios - GET
+
+- Axios - POST
